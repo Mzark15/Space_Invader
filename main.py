@@ -46,11 +46,9 @@ for i in range  (num_of_enemies):
     enemyX_change.append(0.3)
     enemyY_change.append(50)
     
-
-    
-    
 #game over 
 game_over_font=pygame.font.Font("freesansbold.ttf",80)
+
 #score
 score=0
 font=pygame.font.Font("freesansbold.ttf",32)
